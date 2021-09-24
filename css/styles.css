@@ -11,6 +11,11 @@ p{
 }
 
 .mijnafbeelding{
-    width: 100px;
-    height:100px
+    width: 300px;
+    height:auto;
+}
+
+.mijnafbeelding1{
+    width: 300px;
+    height:auto;
 }
